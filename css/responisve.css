@@ -1,0 +1,50 @@
+/*RESPONISVE PARA TABLETS*/
+
+@media(max-width:1250px){
+    .wrap{
+        width:90%;
+        margin:0px auto;
+    }
+    #banner h1{
+        font-size: 35px;
+        text-align: center;
+        margin: 33px auto;
+    }
+    .cards{
+        width: 16%;
+        margin-left:2%;
+        margin-right: 1%;
+    }
+    .cards p{
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+        width: 90%;
+    }
+    #articles{
+        width: 60%;
+    }
+    #articles article{
+        width: 97%;
+    }
+    #footer .wrap div{
+        width: 26%;
+    }
+    #footer #browsers img {
+        width: 15%;
+    }
+    #footer h5{
+        font-size: 30px;
+    }
+
+}
+
+    @media(max-width:1286px){
+        #lateral {
+            margin-right: 2%;
+        }
+        .cards {
+            width: 15%;
+        }
+    }
+
